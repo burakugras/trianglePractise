@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\trianglePractise\trianglePractise\bin\Debug\trianglePractise.exe.config
+C:\Users\Admin\source\repos\trianglePractise\trianglePractise\bin\Debug\trianglePractise.exe
+C:\Users\Admin\source\repos\trianglePractise\trianglePractise\bin\Debug\trianglePractise.pdb
+C:\Users\Admin\source\repos\trianglePractise\trianglePractise\obj\Debug\trianglePractise.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\trianglePractise\trianglePractise\obj\Debug\trianglePractise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\trianglePractise\trianglePractise\obj\Debug\trianglePractise.exe
+C:\Users\Admin\source\repos\trianglePractise\trianglePractise\obj\Debug\trianglePractise.pdb
